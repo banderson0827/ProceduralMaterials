@@ -11,6 +11,14 @@ Material creation can be an intensely laborious process when it comes to creatin
 ## Material Creation Process
 ![DIP-Material-Flowchart drawio](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/ffcdc44e-d235-4b69-99eb-fd0b7b3f0d32)
 
+## Material Examples
+
+### Blender
+![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/24ec70eb-8c31-42cd-bce9-d97a0030d97a)
+
+### MaterialMaker
+![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/0d8e9c82-df60-42e8-a8aa-6890c51f3f7b)
+
 ## Code Contributions
 1. Mohammed - Node structures for ceramictiles.ptex, redbrickwall.ptex, shallowwater.ptex, and shoddyplanks.ptex
 2. Brett - Node structure for stone-floor.blend
