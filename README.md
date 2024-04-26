@@ -27,22 +27,24 @@ Procedural materials library. Materials made with Blender and MaterialMaker.
 1. To install MaterialMaker, go to [MaterialMaker Downloads](https://rodzilla.itch.io/material-maker) and click "Download Now".
    ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/d4ba47f7-2c71-4ff9-92ec-86b115d67345)
 2. On the next screen, make sure to click "No thanks, just take me to the downloads" to proceed to the download options.
+   
    ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/d39c9c18-e92d-41a6-a4cf-91da3ed60cb6)
-3. On the next screen, click the first download option "material_maker_1_3_windows.zip" to begin the download.
+4. On the next screen, click the first download option "material_maker_1_3_windows.zip" to begin the download.
+   
    ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/b7872a01-46ef-4ffc-a1dc-93a6ac54009f)
-4. Once downloaded, extract the .zip file to a folder of your choice.
-5. Then, open the location where you extracted to and double-click the "material_maker.exe" application file to run MaterialMaker.
-6. Once MaterialMaker is opened, to open a material file, download a material .ptex file, and access the File menu in Material Maker:
+6. Once downloaded, extract the .zip file to a folder of your choice.
+7. Then, open the location where you extracted to and double-click the "material_maker.exe" application file to run MaterialMaker.
+8. Once MaterialMaker is opened, to open a material file, download a material .ptex file, and access the File menu in Material Maker:
    ![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/8a0aa980-b57b-4796-9308-bd62a2b0ee75)
    ![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/ca3795c7-2314-41d3-be3b-6494024b5ba2)
 
-7. Then click Load to navigate to and select your .ptex file.
+9. Then click Load to navigate to and select your .ptex file.
 
    ![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/a605b463-3651-4c66-93c5-4e7769655d77)
 
-8. Holding and dragging with middle click will allow you to pan around the node configuration, and using the scroll wheel will let you zoom in/out.
+10. Holding and dragging with middle click will allow you to pan around the node configuration, and using the scroll wheel will let you zoom in/out.
 
-9. From here you will be able to observe the node configuration and make any desired changes.
+11. From here you will be able to observe the node configuration and make any desired changes.
 
 
 
