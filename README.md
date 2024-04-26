@@ -38,4 +38,5 @@ Material creation can be an intensely laborious process when it comes to creatin
 2. Brett - Node structure for stone-floor.blend
 
 ## Project Contributions
-![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/e53127e5-069d-4939-b6fd-da18a3dc1c25)
+![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/5f148774-de6c-4929-860b-e1622f7e9783)
+
