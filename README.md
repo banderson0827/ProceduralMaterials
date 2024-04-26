@@ -5,6 +5,25 @@ Procedural materials library. Materials made with Blender and MaterialMaker.
 1. To use/view these materials, the files must be uploaded to either Blender (.blend) or MaterialMaker(.ptex).
 2. The materials can then be exported to Unity, Unreal Engine, Godot Engine, etc. to be used in creating a landscape for a game, cinematic, etc.
 
+### Blender
+1. To install Blender, go to [Blender Downloads](https://www.blender.org/download/) and click the "Download Blender" button to begin the download.
+   ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/c9990602-e379-433a-9669-75a903ab5ed4)
+2. Once downloaded, open the .exe file to run the installation wizard and follow the instructions to complete the installation process.
+3. Once finished, open the Blender application from your desktop.
+4. To open a .blend file in Blender, navigate to the "Open" menu option on the welcome prompt.
+   ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/dfc96dc0-1be0-4dce-9870-1dbc3eed9e53)
+5. Navigate to the file you would like to open (ex: stone-floor.blend) and then click "Open".
+   ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/5720b06a-adc1-4a31-9262-c3bfe27fad04)
+6. Once the file is opened in Blender, to see the node-based code you must navigate to the "Shading" tab in the top menu as shown below.
+   ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/9b416bb4-4268-4533-b994-a15873a23bcb)
+7. Then, make sure the object is selected by clicking on the plane in the view and the nodes should be displayed on the bottom view.
+   ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/904a9c19-feda-4af8-a575-2ba7b139f37b)
+8. Finally, if you would like to see the rendered view of the actual material, make sure to select the "Viewport Shading" option in the top right of the viewport.
+   
+   ![image](https://github.com/banderson0827/ProceduralMaterials/assets/67702118/0f2cf1e4-395b-4f1b-8b3a-0a134ad8386c)
+
+
+### MaterialMaker
 To load these materials into Material Maker, download a material .ptex file, and access the File menu in Material Maker:
 ![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/8a0aa980-b57b-4796-9308-bd62a2b0ee75)
 ![image](https://github.com/banderson0827/ProceduralMaterials/assets/129086162/ca3795c7-2314-41d3-be3b-6494024b5ba2)
